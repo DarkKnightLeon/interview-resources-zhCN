@@ -1,6 +1,13 @@
 # interview-resources-zhCN
 面试技术资源，整理自用
 
+# 基础知识
+[Java集合框架：HashMap](http://blog.csdn.net/u013256816/article/details/50912762)
+
+[Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
+
+[Comparable与Comparator浅析](http://blog.csdn.net/u013256816/article/details/50899416)
+
 # 多线程和锁
 [Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
 
@@ -28,13 +35,6 @@
 
 # JVM相关
 [Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
-
-# 基础知识
-[Java集合框架：HashMap](http://blog.csdn.net/u013256816/article/details/50912762)
-
-[Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
-
-[Comparable与Comparator浅析](http://blog.csdn.net/u013256816/article/details/50899416)
 
 # NIO相关
 [攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
