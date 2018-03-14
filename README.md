@@ -40,6 +40,8 @@
 # JVM相关
 [Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
 
+[Java对象大小内幕浅析](http://blog.csdn.net/u013256816/article/details/51008443)
+
 [JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
 # NIO相关
