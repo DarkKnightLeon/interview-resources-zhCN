@@ -25,6 +25,8 @@
 
 [ExecutorService 的理解与使用](http://blog.csdn.net/bairrfhoinn/article/details/16848785)
 
+[Java多线程之interrupt()方法与sleep(),join(),wait()的关系](http://blog.csdn.net/zolalad/article/details/38903911)
+
 [JAVA线程间协作：wait.notify.notifyAll](http://blog.csdn.net/u013256816/article/details/50440123)
 
 [JAVA线程间协作：Condition](http://blog.csdn.net/u013256816/article/details/50445241)
