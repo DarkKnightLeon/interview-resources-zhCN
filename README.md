@@ -17,6 +17,8 @@
 
 [Java多线程知识小抄集(四)——完结](http://blog.csdn.net/u013256816/article/details/51524861)
 
+[Java中进程与线程的区别](http://blog.csdn.net/wu371894545/article/details/56035400)
+
 [Java中的锁](http://blog.csdn.net/u013256816/article/details/51204385)
 
 [Java守护线程概述](http://blog.csdn.net/u013256816/article/details/50392298)
@@ -35,6 +37,8 @@
 
 # JVM相关
 [Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
+
+[JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
 # NIO相关
 [攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
