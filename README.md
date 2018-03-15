@@ -1,7 +1,7 @@
 # interview-resources-zhCN
 面试技术资源，整理自用
 
-# 基础知识
+# 基础综合
 [Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
 [NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
@@ -15,7 +15,7 @@
 [浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
 
 
-# 多线程和锁
+# 并发
 [Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
 
 [Java多线程知识小抄集(二)](http://blog.csdn.net/u013256816/article/details/51325309)
@@ -46,17 +46,17 @@
 
 [JAVA多线程之扩展ThreadPoolExecutor](http://blog.csdn.net/u013256816/article/details/50403962)
 
-# JVM相关
+# JVM
 [Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
 
 [Java对象大小内幕浅析](http://blog.csdn.net/u013256816/article/details/51008443)
 
 [JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
-# NIO相关
+# NIO
 [攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
 
-# 缓存技术
+# 缓存
 [Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
 
 # 设计模式
