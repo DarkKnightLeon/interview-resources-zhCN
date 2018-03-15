@@ -26,6 +26,8 @@
 
 [ConcurrentHashMap总结](https://my.oschina.net/hosee/blog/675884)
 
+[ConcurrentHashMap能完全替代HashTable吗？](https://my.oschina.net/hosee/blog/675423)
+
 [Java中进程与线程的区别](http://blog.csdn.net/wu371894545/article/details/56035400)
 
 [Java中的锁](http://blog.csdn.net/u013256816/article/details/51204385)
