@@ -2,7 +2,7 @@
 面试技术资源，整理自用
 
 # 基础知识
-[Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
+[Java Collections Framework Internals(集合相关的都在这)](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
 
