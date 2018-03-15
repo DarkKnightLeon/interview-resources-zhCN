@@ -4,7 +4,7 @@
 # 基础知识
 [Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
-[ConcurrentHashMap总结](http://www.importnew.com/22007.html)
+[ConcurrentHashMap总结](https://my.oschina.net/hosee/blog/675884)
 
 [NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
 
