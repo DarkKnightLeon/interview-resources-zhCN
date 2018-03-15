@@ -4,8 +4,6 @@
 # 基础知识
 [Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
-[ConcurrentHashMap总结](https://my.oschina.net/hosee/blog/675884)
-
 [NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
 
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
@@ -25,6 +23,8 @@
 [Java多线程知识小抄集(三)](http://blog.csdn.net/u013256816/article/details/51363643)
 
 [Java多线程知识小抄集(四)——完结](http://blog.csdn.net/u013256816/article/details/51524861)
+
+[ConcurrentHashMap总结](https://my.oschina.net/hosee/blog/675884)
 
 [Java中进程与线程的区别](http://blog.csdn.net/wu371894545/article/details/56035400)
 
