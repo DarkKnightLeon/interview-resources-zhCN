@@ -4,6 +4,10 @@
 # 基础知识
 [Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
+[ConcurrentHashMap总结](http://www.importnew.com/22007.html)
+
+[NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
+
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
 
 [Comparable与Comparator浅析](http://blog.csdn.net/u013256816/article/details/50899416)
