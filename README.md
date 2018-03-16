@@ -6,6 +6,8 @@
 
 [NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
 
+[JDK7与JDK8中HashMap的实现](https://my.oschina.net/hosee/blog/618953)
+
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
 
 [Comparable与Comparator浅析](http://blog.csdn.net/u013256816/article/details/50899416)
@@ -65,6 +67,7 @@
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
 
 # 算法
+[红黑树](http://my.oschina.net/hosee/blog/618828)
 
 
 
