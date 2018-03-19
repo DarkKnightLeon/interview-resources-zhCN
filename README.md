@@ -120,13 +120,18 @@
 
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
 
-# 缓存
-[Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
-
-# 常用框架
+# 常用框架及第三方工具
 [Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
 
 [Spring AOP 实现原理](http://blog.csdn.net/moreevan/article/details/11977115/)
+
+[Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
+
+# JAVA 9
+[Java 9 : 从零开始实现模块化(一)](http://blog.csdn.net/rickiyeat/article/details/78068316)
+
+[Java 9 揭秘（2. 模块化系统）](https://www.cnblogs.com/IcanFixIt/p/6947763.html)
+
 
 # 设计模式
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
