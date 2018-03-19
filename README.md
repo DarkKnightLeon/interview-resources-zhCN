@@ -128,10 +128,7 @@
 [Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
 
 # JAVA 9
-[Java 9 : 从零开始实现模块化(一)](http://blog.csdn.net/rickiyeat/article/details/78068316)
-
-[Java 9 揭秘（2. 模块化系统）](https://www.cnblogs.com/IcanFixIt/p/6947763.html)
-
+[Java 9 新特性来临——模块化](https://www.jianshu.com/p/053a5ca89bbb)
 
 # 设计模式
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
