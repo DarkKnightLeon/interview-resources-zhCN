@@ -53,15 +53,15 @@
 
 [★JVM中线程的状态转换图](http://blog.csdn.net/hxpjava1/article/details/55255181)
 
-[Java并发编程-无锁CAS与Unsafe类及其并发包Atomic](http://blog.csdn.net/javazejian/article/details/72772470)
+[1.深入理解Java并发之synchronized实现原理](http://blog.csdn.net/javazejian/article/details/72828483)
 
-[剖析基于并发AQS的共享锁的实现(基于信号量Semaphore)](http://blog.csdn.net/javazejian/article/details/76167357)
+[2.Java并发编程-无锁CAS与Unsafe类及其并发包Atomic](http://blog.csdn.net/javazejian/article/details/72772470)
 
-[深入剖析java并发之阻塞队列LinkedBlockingQueue与ArrayBlockingQueue](http://blog.csdn.net/javazejian/article/details/77410889)
+[3.深入剖析基于并发AQS的(独占锁)重入锁(ReetrantLock)及其Condition实现原理](http://blog.csdn.net/javazejian/article/details/75043422)
 
-[深入剖析基于并发AQS的(独占锁)重入锁(ReetrantLock)及其Condition实现原理](http://blog.csdn.net/javazejian/article/details/75043422)
+[4.剖析基于并发AQS的共享锁的实现(基于信号量Semaphore)](http://blog.csdn.net/javazejian/article/details/76167357)
 
-[深入理解Java并发之synchronized实现原理](http://blog.csdn.net/javazejian/article/details/72828483)
+[5.深入剖析java并发之阻塞队列LinkedBlockingQueue与ArrayBlockingQueue](http://blog.csdn.net/javazejian/article/details/77410889)
 
 [JAVA线程池原理以及几种线程池类型介绍](http://xtu-xiaoxin.iteye.com/blog/647580)
 
