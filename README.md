@@ -36,7 +36,7 @@
 
 [Comparable与Comparator浅析](http://blog.csdn.net/u013256816/article/details/50899416)
 
-[JAVA序列化](http://blog.csdn.net/u013256816/article/details/50474678)
+[Java对象的序列化与反序列化](https://mp.weixin.qq.com/s/-D9N9_9IDqSbuIjuADJ7ZA)
 
 [你真的以为你了解Java的序列化了吗？](http://zhuanlan.51cto.com/art/201803/568360.htm)
 
