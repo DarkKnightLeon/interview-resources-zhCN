@@ -1,47 +1,57 @@
 # interview-resources-zhCN
-本来想跳槽，搜了些互联网公司的面试题，发现自己理解都不是很深刻，默默地回去把简历关掉，潜心学习。。。
+持续整理完善中。。。
+
+本人保证加入本列表的文章 *最终* 都是本人阅读过的，临时加进来未读过的文章，如后面阅读后发现不好，会删除另找资源替换，请留意更新。
 
 本目录所有资源来自网络，本人仅整理，感谢原作者的无私奉献，如有侵权，请联系删除。
 
-持续整理完善中。
+#### 使用方法
+
+近期面试的，阅读带★的，抱抱佛脚
+
+##### 星号已整理模块：
+* JAVA综合
+* 并发
+
+长期准备的，通读所有文章，并遵循记忆法定期复习
 
 # JAVA综合
-[扫码登录是如何实现的？](https://www.jianshu.com/p/7f072ac61763)
+[★浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
+
+[★JDK7与JDK8中HashMap的实现](https://my.oschina.net/hosee/blog/618953)
+
+[★Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
+
+[★JAVA 7/8 新特性](http://www.cnblogs.com/jiangxiulian/p/7418305.html)
+
+[★Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
+
+[NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
+
+[Java提高篇——equals()与hashCode()方法详解](http://www.cnblogs.com/Qian123/p/5703507.html)
 
 [深入理解Java枚举类型(enum)](http://blog.csdn.net/javazejian/article/details/71333103)
 
 [深入理解Java注解类型(@Annotation)](http://blog.csdn.net/javazejian/article/details/71860633)
 
-[JAVA 7/8 新特性](http://www.cnblogs.com/jiangxiulian/p/7418305.html)
-
-[Java提高篇——equals()与hashCode()方法详解](http://www.cnblogs.com/Qian123/p/5703507.html)
-
-[Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
-
-[NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
-
-[JDK7与JDK8中HashMap的实现](https://my.oschina.net/hosee/blog/618953)
-
-[Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
-
 [Comparable与Comparator浅析](http://blog.csdn.net/u013256816/article/details/50899416)
 
 [JAVA序列化](http://blog.csdn.net/u013256816/article/details/50474678)
 
-[浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
+[扫码登录是如何实现的？](https://www.jianshu.com/p/7f072ac61763)
 
 # 并发
-[Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
+[★Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
 
-[Java多线程知识小抄集(二)](http://blog.csdn.net/u013256816/article/details/51325309)
+[★Java多线程知识小抄集(二)](http://blog.csdn.net/u013256816/article/details/51325309)
 
-[Java多线程知识小抄集(三)](http://blog.csdn.net/u013256816/article/details/51363643)
+[★Java多线程知识小抄集(三)](http://blog.csdn.net/u013256816/article/details/51363643)
 
-[Java多线程知识小抄集(四)——完结](http://blog.csdn.net/u013256816/article/details/51524861)
+[★Java多线程知识小抄集(四)——完结](http://blog.csdn.net/u013256816/article/details/51524861)
 
-[Java线程间的通信方式详解](http://www.jb51.net/article/84213.htm)
+[★40个Java多线程问题总结](http://www.cnblogs.com/xrq730/p/5060921.html)
 
-[JVM中线程的状态转换图](http://blog.csdn.net/hxpjava1/article/details/55255181)
+[★JVM中线程的状态转换图](http://blog.csdn.net/hxpjava1/article/details/55255181)
 
 [Java并发编程-无锁CAS与Unsafe类及其并发包Atomic](http://blog.csdn.net/javazejian/article/details/72772470)
 
@@ -78,6 +88,8 @@
 [java并发-ReentrantLock的lock和lockInterruptibly的区别](http://blog.csdn.net/wojiushiwo945you/article/details/42387091)
 
 [JAVA多线程之扩展ThreadPoolExecutor](http://blog.csdn.net/u013256816/article/details/50403962)
+
+[深入JDK源码之ThreadLocal类](https://my.oschina.net/xianggao/blog/392440?fromerr=CLZtT4xC)
 
 # JVM
 [深入理解Java类加载器(ClassLoader)](http://blog.csdn.net/javazejian/article/details/73413292)
