@@ -11,9 +11,7 @@
 
 注：并不是加了★就表示该文章比其他的重要，它只是刚好覆盖了常见面试点，更适合快速复习面试，如时间充足，*强烈建议* 通读所有文章
 
-##### 星号已整理模块：
-* JAVA综合
-* 并发
+注：*目前★标注并不全*
 
 长期准备的，通读所有文章，并遵循记忆法定期复习
 
@@ -128,7 +126,9 @@
 [Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
 
 # JAVA 9
-[Java 9 新特性来临——模块化](https://www.jianshu.com/p/053a5ca89bbb)
+[★Java9模块系统](https://www.yiibai.com/java/java9/module_system.html)
+
+[Java 9 揭秘（2. 模块化系统）](https://www.cnblogs.com/IcanFixIt/p/6947763.html)
 
 [[译] JAR 地狱 (JAR Hell)](https://toutiao.io/posts/452124/app_preview)
 
