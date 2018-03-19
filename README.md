@@ -11,7 +11,9 @@
 
 注：并不是加了★就表示该文章比其他的重要，它只是刚好覆盖了常见面试点，更适合快速复习面试，如时间充足，*强烈建议* 通读所有文章
 
-注：*目前★标注并不全*
+注：*目前★标注不全,仅供参考*
+
+注：相邻文章有标序号的代表推荐阅读顺序
 
 长期准备的，通读所有文章，并遵循记忆法定期复习
 
@@ -36,9 +38,9 @@
 
 [Comparable与Comparator浅析](http://blog.csdn.net/u013256816/article/details/50899416)
 
-[Java对象的序列化与反序列化](https://mp.weixin.qq.com/s/-D9N9_9IDqSbuIjuADJ7ZA)
+[1.Java对象的序列化与反序列化](https://mp.weixin.qq.com/s/-D9N9_9IDqSbuIjuADJ7ZA)
 
-[你真的以为你了解Java的序列化了吗？](http://zhuanlan.51cto.com/art/201803/568360.htm)
+[2.你真的以为你了解Java的序列化了吗？](http://zhuanlan.51cto.com/art/201803/568360.htm)
 
 [扫码登录是如何实现的？](https://www.jianshu.com/p/7f072ac61763)
 
