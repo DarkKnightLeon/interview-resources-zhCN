@@ -38,6 +38,8 @@
 
 [JAVA序列化](http://blog.csdn.net/u013256816/article/details/50474678)
 
+[你真的以为你了解Java的序列化了吗？](http://zhuanlan.51cto.com/art/201803/568360.htm)
+
 [扫码登录是如何实现的？](https://www.jianshu.com/p/7f072ac61763)
 
 # 并发
