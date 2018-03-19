@@ -130,6 +130,8 @@
 # JAVA 9
 [Java 9 新特性来临——模块化](https://www.jianshu.com/p/053a5ca89bbb)
 
+[[译] JAR 地狱 (JAR Hell)](https://toutiao.io/posts/452124/app_preview)
+
 # 设计模式
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
 
