@@ -108,6 +108,8 @@
 
 [JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
+[使用jstack找出消耗CPU最多的线程代码](http://daiguahub.com/2016/07/31/%E4%BD%BF%E7%94%A8jstack%E6%89%BE%E5%87%BA%E6%B6%88%E8%80%97CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E7%BA%BF%E7%A8%8B%E4%BB%A3%E7%A0%81/)
+
 # NIO
 [攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
 
