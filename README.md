@@ -94,13 +94,15 @@
 [深入JDK源码之ThreadLocal类](https://my.oschina.net/xianggao/blog/392440?fromerr=CLZtT4xC)
 
 # JVM
-[★深入理解Java类加载器(ClassLoader)](http://blog.csdn.net/javazejian/article/details/73413292)
+[★深入理解Java类加载器（思维导图精简版）](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
 
 [★深入理解Java类型信息(Class对象)与反射机制](http://blog.csdn.net/javazejian/article/details/70768369)
 
 [★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
 
 [★java中的内存模型](http://www.cnblogs.com/_popc/p/6096517.html)
+
+[深入理解Java类加载器(ClassLoader)](http://blog.csdn.net/javazejian/article/details/73413292)
 
 [Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
 
