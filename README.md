@@ -108,7 +108,7 @@
 
 [1.JVM 垃圾回收器工作原理及使用实例介绍](https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/)
 
-[2.JVM 优化经验总结( 原文有误，清单2和3是反的，5/6/7的描述和图片对不上，取其精华，不要纠结（后面两个评论都是拍马屁的，不知道认真看过文章没）](https://www.ibm.com/developerworks/cn/java/j-lo-jvm-optimize-experience/index.html)
+[2.JVM 优化经验总结( 原文有误，清单2和3是反的，5/6/7的描述和图片对不上，取其精华，不要纠结）](https://www.ibm.com/developerworks/cn/java/j-lo-jvm-optimize-experience/index.html)
 
 [JAVA调优总结（09年发布，可快速浏览其中概念，无需太过关注技术细节）](https://wenku.baidu.com/view/5fb0770c4a7302768e99394d.html)
 
