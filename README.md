@@ -174,6 +174,8 @@
 
 [服务器被 DDos 攻击有效的处理方法](http://server.51cto.com/sOS-568335.htm)
 
+[系统吞吐量（TPS）、用户并发量、性能测试概念和公式](http://www.ha97.com/5095.html)
+
 # Linux
 [★linux命令（java开发常用）](http://blog.csdn.net/qq_15821497/article/details/73945074)
 
