@@ -5,7 +5,7 @@
 
 本目录所有资源来自网络，本人仅整理，感谢原作者的无私奉献，如有侵权，请联系删除。
 
-部分比较重要且难以记忆的知识点，本人整理了思维导图版便于记忆，与原文标题相同，前面加了（思维导图速记版）标识，时间充沛请先阅读原文。
+部分比较重要且难以记忆的知识点，本人整理了思维导图版便于记忆，与原文标题相同，前面加了【速记】标识，时间充沛请先阅读原文。
 
 #### 使用方法
 
@@ -101,7 +101,7 @@
 
 [★深入理解Java类型信息(Class对象)与反射机制](http://blog.csdn.net/javazejian/article/details/70768369)
 
-[★(思维导图速记版)深入理解Java类加载器(ClassLoader)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
+[★【速记】深入理解Java类加载器(ClassLoader)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
 
 [★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
 
