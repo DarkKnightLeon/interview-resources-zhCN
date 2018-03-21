@@ -98,14 +98,15 @@
 [深入JDK源码之ThreadLocal类](https://my.oschina.net/xianggao/blog/392440?fromerr=CLZtT4xC)
 
 # JVM
+[★1.JVM 垃圾回收器工作原理及使用实例介绍](https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/)
+
+[★2.JVM 优化经验总结](https://www.ibm.com/developerworks/cn/java/j-lo-jvm-optimize-experience/index.html)
 
 [★深入理解Java类型信息(Class对象)与反射机制](http://blog.csdn.net/javazejian/article/details/70768369)
 
 [★【速记】深入理解Java类加载器(ClassLoader)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
 
 [★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
-
-[★JVM 垃圾回收器工作原理及使用实例介绍](https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/)
 
 [java中的内存模型](http://www.cnblogs.com/_popc/p/6096517.html)
 
