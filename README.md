@@ -165,8 +165,9 @@
 
 [服务器被 DDos 攻击有效的处理方法](http://server.51cto.com/sOS-568335.htm)
 
-
-
+# Linux
+[★linux命令（java开发常用）](http://blog.csdn.net/qq_15821497/article/details/73945074)
+[java 开发常用的Linux命令](https://www.cnblogs.com/Mrjie/p/5810669.html)
 
 
 
