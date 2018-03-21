@@ -42,6 +42,8 @@
 
 [扫码登录是如何实现的？](https://www.jianshu.com/p/7f072ac61763)
 
+[使用jstack找出消耗CPU最多的线程代码](http://daiguahub.com/2016/07/31/%E4%BD%BF%E7%94%A8jstack%E6%89%BE%E5%87%BA%E6%B6%88%E8%80%97CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E7%BA%BF%E7%A8%8B%E4%BB%A3%E7%A0%81/)
+
 # 并发
 [★Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
 
@@ -101,11 +103,11 @@
 
 [★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
 
-[★java中的内存模型](http://www.cnblogs.com/_popc/p/6096517.html)
+[★JVM 垃圾回收器工作原理及使用实例介绍](https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/)
+
+[java中的内存模型](http://www.cnblogs.com/_popc/p/6096517.html)
 
 [深入理解Java类加载器(ClassLoader)](http://blog.csdn.net/javazejian/article/details/73413292)
-
-[Java虚拟机类加载机制](http://blog.csdn.net/u013256816/article/details/50829596)
 
 [Java对象大小内幕浅析](http://blog.csdn.net/u013256816/article/details/51008443)
 
@@ -113,7 +115,6 @@
 
 [JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
-[使用jstack找出消耗CPU最多的线程代码](http://daiguahub.com/2016/07/31/%E4%BD%BF%E7%94%A8jstack%E6%89%BE%E5%87%BA%E6%B6%88%E8%80%97CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E7%BA%BF%E7%A8%8B%E4%BB%A3%E7%A0%81/)
 
 # NIO
 [★Java NIO和IO的区别](http://www.jb51.net/article/50621.htm)
