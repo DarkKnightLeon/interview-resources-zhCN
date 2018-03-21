@@ -99,7 +99,7 @@
 
 [★深入理解Java类型信息(Class对象)与反射机制](http://blog.csdn.net/javazejian/article/details/70768369)
 
-[★深入理解Java类加载器(思维导图精简版)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
+[★(思维导图速记版)深入理解Java类加载器(ClassLoader)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
 
 [★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
 
