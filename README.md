@@ -98,6 +98,8 @@
 [深入JDK源码之ThreadLocal类](https://my.oschina.net/xianggao/blog/392440?fromerr=CLZtT4xC)
 
 # JVM
+[★【速记】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)
+
 [★【速记】JVM 优化经验总结](https://www.processon.com/view/link/5ab20990e4b018c271bb3d4e)
 
 [★【速记】深入理解Java类加载器(ClassLoader)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
