@@ -133,6 +133,8 @@
 # DB
 [★浅谈MySql的存储引擎（表类型）](http://www.cnblogs.com/lina1006/archive/2011/04/29/2032894.html)
 
+[★mysql行转列转换（可以省掉不少子查询写法，相同条件比子查询效率提高40%左右）](https://blog.csdn.net/sinat_27406925/article/details/77507478)
+
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
 
 # 常用框架及第三方工具
