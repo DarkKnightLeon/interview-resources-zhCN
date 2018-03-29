@@ -36,6 +36,8 @@
 [使用jstack找出消耗CPU最多的线程代码](http://daiguahub.com/2016/07/31/%E4%BD%BF%E7%94%A8jstack%E6%89%BE%E5%87%BA%E6%B6%88%E8%80%97CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E7%BA%BF%E7%A8%8B%E4%BB%A3%E7%A0%81/)
 
 # 并发
+[★【速记】JAVA并发总结](https://www.processon.com/view/link/5abc8c8de4b02cee4cf7f3ea)
+
 [★Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
 
 [★Java多线程知识小抄集(二)](http://blog.csdn.net/u013256816/article/details/51325309)
