@@ -128,19 +128,14 @@
 
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
 
-# 常用框架及第三方工具
-[★Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
-
+# Spring
 [Spring AOP 实现原理](http://blog.csdn.net/moreevan/article/details/11977115/)
 
+# ORM
+[★Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
+
+# 缓存
 [Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
-
-# JAVA 9
-[★Java9模块系统](https://www.yiibai.com/java/java9/module_system.html)
-
-[Java 9 揭秘（2. 模块化系统）](https://www.cnblogs.com/IcanFixIt/p/6947763.html)
-
-[(译)JAR 地狱 (JAR Hell)](https://toutiao.io/posts/452124/app_preview)
 
 # 设计模式
 [★快速理解Java中的五种单例模式](http://www.cnblogs.com/hupp/p/4487521.html)
@@ -183,7 +178,12 @@
 
 [java 开发常用的Linux命令](https://www.cnblogs.com/Mrjie/p/5810669.html)
 
+# JAVA 9
+[★Java9模块系统](https://www.yiibai.com/java/java9/module_system.html)
 
+[Java 9 揭秘（2. 模块化系统）](https://www.cnblogs.com/IcanFixIt/p/6947763.html)
+
+[(译)JAR 地狱 (JAR Hell)](https://toutiao.io/posts/452124/app_preview)
 
 
 
