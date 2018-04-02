@@ -147,6 +147,13 @@
 
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
 
+# 分布式
+[【速记】Hessian简单理解](https://www.processon.com/view/link/5ac1ca3fe4b0cf24e96359ea)
+
+[【速记】Thrift入门](https://www.processon.com/view/link/5ac1ca68e4b0cfe2747a9459)
+
+[【速记】Zookeeper入门](https://www.processon.com/view/link/5ac1caa0e4b00dc8a0260b99)
+
 # 算法
 [红黑树](http://my.oschina.net/hosee/blog/618828)
 
