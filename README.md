@@ -143,7 +143,7 @@
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
 
 # 分布式
-[★聊聊Dubbox（一）：为何选择（注：不止是聊了dubbox，值得一看）](https://blog.csdn.net/i_will_try/article/details/76212234)
+[★聊聊Dubbox（一）：为何选择（注：不止是聊了dubbox，值得一看）](https://www.jianshu.com/p/0b6e2c920014)
 
 [【速记】Hessian简单理解](https://www.processon.com/view/link/5ac1ca3fe4b0cf24e96359ea)
 
