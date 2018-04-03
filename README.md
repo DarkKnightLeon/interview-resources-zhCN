@@ -119,8 +119,6 @@
 # NIO
 [★攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
 
-[Java NIO和IO的区别](http://www.jb51.net/article/50621.htm)
-
 # DB
 [★浅谈MySql的存储引擎（表类型）](http://www.cnblogs.com/lina1006/archive/2011/04/29/2032894.html)
 
