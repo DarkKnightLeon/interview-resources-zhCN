@@ -191,8 +191,8 @@
 
 [(译)JAR 地狱 (JAR Hell)](https://toutiao.io/posts/452124/app_preview)
 
-
-
+# 杂谈
+[搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
 
 
 
