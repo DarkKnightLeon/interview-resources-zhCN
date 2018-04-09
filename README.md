@@ -129,7 +129,7 @@
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
 
 # Spring
-[深入理解Spring MVC 思想](https://www.cnblogs.com/baiduligang/p/4247164.html)
+[★深入理解Spring MVC 思想](https://www.cnblogs.com/baiduligang/p/4247164.html)
 
 [Spring AOP 实现原理](http://blog.csdn.net/moreevan/article/details/11977115/)
 
