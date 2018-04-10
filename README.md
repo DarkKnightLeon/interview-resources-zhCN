@@ -200,5 +200,6 @@
 # 杂谈
 [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
 
+[看看大牛是怎么写代码的，再对比下自己拙劣的水平（Spring Boot官方教程，需翻墙）](https://www.youtube.com/watch?time_continue=351&v=8RPdOmKtur0)
 
 
