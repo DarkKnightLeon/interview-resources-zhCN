@@ -4,7 +4,7 @@
 
 2. 以【速记】开头为本人整理的思维导图，方便记忆
 
-3. 目前基础部分还未整完，后续还会加入框架等相关内容
+3. 现在开始整理Spring相关的了
 
 # JAVA综合
 [★浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
@@ -135,6 +135,7 @@
 
 [Spring AOP 实现原理](http://blog.csdn.net/moreevan/article/details/11977115/)
 
+[Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
 
 
 # ORM
@@ -199,7 +200,4 @@
 
 # 杂谈
 [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
-
-[看看大牛是怎么写代码的，再对比下自己拙劣的水平（Spring Boot官方教程，需翻墙）](https://www.youtube.com/watch?time_continue=351&v=8RPdOmKtur0)
-
 
