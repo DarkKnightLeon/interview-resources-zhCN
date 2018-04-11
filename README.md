@@ -163,6 +163,15 @@
 
 [【速记】Zookeeper入门](https://www.processon.com/view/link/5ac1caa0e4b00dc8a0260b99)
 
+# 架构
+[基于区块链的信贷云平台技术架构图](https://www.processon.com/view/5a9f867fe4b0f7be027ae13c)
+
+[某项目架构图](https://www.processon.com/view/5a545907e4b0abe85d46f363)
+
+[微服务技术架构](https://www.processon.com/view/58e43c7ee4b0a49a5fd02823)
+
+[云平台系统架构图](https://www.processon.com/view/5a77f599e4b059c41ab54de4)
+
 # 算法
 [红黑树](http://my.oschina.net/hosee/blog/618828)
 
