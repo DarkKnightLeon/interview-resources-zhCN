@@ -116,7 +116,7 @@
 [JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
 # Spring
-[★69 个经典 Spring 面试题和答案](https://blog.csdn.net/dm520/article/details/51335206)
+[★spring和springMVC的面试问题总结](https://blog.csdn.net/qq_39470733/article/details/77709607)
 
 [Spring MVC 官方文档（英文），推荐详细研读1.2 DispatcherServlet，面试最爱问](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
 
@@ -210,3 +210,5 @@
 
 # 杂谈
 [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
+
+[京东安全架构师刘刚：电商大促的安全保障是一个复杂的超级工程](http://netsecurity.51cto.com/art/201712/561095.htm)
