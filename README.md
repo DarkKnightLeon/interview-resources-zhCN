@@ -13,7 +13,7 @@
 
 [★Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
 
-[★JAVA 7/8 新特性](http://www.cnblogs.com/jiangxiulian/p/7418305.html)
+[★JDK各个版本的新特性jdk1.5-jdk8](http://www.cnblogs.com/langtianya/p/3757993.html)
 
 [★Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
