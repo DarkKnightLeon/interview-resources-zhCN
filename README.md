@@ -121,7 +121,7 @@
 
 [【速记】JAVA NIO](https://www.processon.com/view/link/5ac34effe4b0cfe2747f1fba)
 
-# DB
+# DB及ORM
 [★浅谈MySql的存储引擎（表类型）](http://www.cnblogs.com/lina1006/archive/2011/04/29/2032894.html)
 
 [★mysql行转列转换（可以省掉不少子查询写法，相同条件比子查询效率提高40%左右）](https://blog.csdn.net/sinat_27406925/article/details/77507478)
