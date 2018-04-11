@@ -17,7 +17,7 @@
 
 [★Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
-[NavigableMap与NavigableSet](http://blog.sina.com.cn/s/blog_8a99ddf20101d2fp.html)
+[NavigableMap与NavigableSet](https://blog.csdn.net/g_beginner/article/details/6207550)
 
 [Java提高篇——equals()与hashCode()方法详解](http://www.cnblogs.com/Qian123/p/5703507.html)
 
