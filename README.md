@@ -116,6 +116,8 @@
 [JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
 # Spring
+[★69 个经典 Spring 面试题和答案](https://blog.csdn.net/dm520/article/details/51335206)
+
 [Spring MVC 官方文档（英文），推荐详细研读1.2 DispatcherServlet，面试最爱问](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
 
 [Spring 官方 Java Doc 5.0.5 RELEASE](https://docs.spring.io/spring/docs/5.0.5.RELEASE/javadoc-api/)
