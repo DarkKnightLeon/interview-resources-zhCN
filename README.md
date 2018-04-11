@@ -143,7 +143,6 @@
 # 实用工具
 [Lombok介绍及使用方法](https://yq.aliyun.com/articles/59972)
 
-# 缓存
 [Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
 
 # 设计模式
