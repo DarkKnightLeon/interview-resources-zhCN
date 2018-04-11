@@ -126,7 +126,10 @@
 
 [★mysql行转列转换（可以省掉不少子查询写法，相同条件比子查询效率提高40%左右）](https://blog.csdn.net/sinat_27406925/article/details/77507478)
 
+[★Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
+
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
+
 
 # Spring
 [Spring MVC 官方文档（英文），推荐详细研读1.2 DispatcherServlet，面试最爱问](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
@@ -136,9 +139,6 @@
 [Spring AOP 实现原理](http://blog.csdn.net/moreevan/article/details/11977115/)
 
 [Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
-
-# ORM
-[★Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
 
 # 实用工具
 [Lombok介绍及使用方法](https://yq.aliyun.com/articles/59972)
