@@ -35,6 +35,10 @@
 
 [使用jstack找出消耗CPU最多的线程代码](http://daiguahub.com/2016/07/31/%E4%BD%BF%E7%94%A8jstack%E6%89%BE%E5%87%BA%E6%B6%88%E8%80%97CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E7%BA%BF%E7%A8%8B%E4%BB%A3%E7%A0%81/)
 
+[几张图轻松理解String.intern()](https://blog.csdn.net/soonfly/article/details/70147205)
+
+[在Java8的foreach()中使用return/break/continue](https://blog.csdn.net/lmy86263/article/details/51057733)
+
 # 并发
 [★【速记】JAVA并发总结](https://www.processon.com/view/link/5abc8c8de4b02cee4cf7f3ea)
 
@@ -117,6 +121,22 @@
 
 # Spring
 [★spring和springMVC的面试问题总结](https://blog.csdn.net/qq_39470733/article/details/77709607)
+
+[★1.核心分发器DispatcherServlet分析](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-dispatcherServlet.md)
+
+[★2.解析SpringMVC针对请求是如何找到正确的Controller](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-request-mapping.md)
+
+[★3.解析SpringMVC中Controller的方法中参数的工作原理](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-request-param-analysis.md)
+
+[★4.解析SpringMVC关于json、xml自动转换的原理](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-xml-json-convert.md)
+
+[★5.解析SpringMVC类型转换、数据绑定](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-databind-typeconvert.md)
+
+[★6.解析SpringMVC拦截器](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-interceptor.md)
+
+[★7.解析SpringMVC视图机制](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-view-viewResolver.md)
+
+[★8.解析SpringMVC异常处理机制](https://github.com/fangjian0423/springmvc-source-minibook/blob/master/SpringMVC-exception-analysis.md)
 
 [Spring MVC 官方文档（英文），推荐详细研读1.2 DispatcherServlet，面试最爱问](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
 
