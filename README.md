@@ -119,10 +119,16 @@
 
 [JAVA虚拟机关闭钩子(Shutdown Hook)](http://blog.csdn.net/u013256816/article/details/50394923)
 
+[Java内存溢出(OOM)异常完全指南](https://www.jianshu.com/p/2fdee831ed03)
+
+[详解JVM内存管理与垃圾回收机制 (上)](https://www.jianshu.com/p/f8d71e1e8821)
+
 # Spring
 [★spring和springMVC的面试问题总结](https://blog.csdn.net/qq_39470733/article/details/77709607)
 
 [★【速记】SpringMVC 请求流程和异常解析](https://www.processon.com/view/link/5ad46a43e4b04721d61d908f)
+
+[给你一份Spring Boot知识清单](https://www.jianshu.com/p/83693d3d0a65)
 
 [Spring MVC中异常处理的类体系结构](http://www.importnew.com/24892.html)
 
@@ -149,6 +155,12 @@
 [★Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
 
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
+
+[我必须得告诉大家的MySQL优化原理](https://www.jianshu.com/p/d7665192aaaf)
+
+[我必须得告诉大家的MySQL优化原理2](https://www.jianshu.com/p/01b9f028d9c7)
+
+[我必须得告诉大家的MySQL优化原理3](https://www.jianshu.com/p/78b6b7e2bb7f)
 
 # 实用工具
 [Lombok介绍及使用方法](https://yq.aliyun.com/articles/59972)
