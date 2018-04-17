@@ -142,6 +142,10 @@
 
 [Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
 
+[Spring缓存注解@Cacheable、@CacheEvict、@CachePut使用](https://www.cnblogs.com/fashflying/p/6908028.html)
+
+[【Spring实战】----security4.1.3认证的过程以及原请求信息的缓存及恢复（RequestCache）](https://blog.csdn.net/honghailiang888/article/details/53671108)
+
 # NIO
 [★攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
 
