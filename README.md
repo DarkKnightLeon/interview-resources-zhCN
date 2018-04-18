@@ -238,3 +238,12 @@
 [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
 
 [京东安全架构师刘刚：电商大促的安全保障是一个复杂的超级工程](http://netsecurity.51cto.com/art/201712/561095.htm)
+
+# 正版电子书推荐
+[深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）](https://www.amazon.cn/gp/product/B00DA0E170?ref_=kin_pc_dp)
+
+[Redis设计与实现 (数据库技术丛书)](https://www.amazon.cn/dp/B00LZNV5B4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1524022270&sr=1-1&keywords=redis)
+
+[Java 8实战 (图灵程序设计丛书) ](https://www.amazon.cn/dp/B01M9GP6JA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1524022301&sr=1-1&keywords=java+8)
+
+[微服务设计 (图灵程序设计丛书)](https://www.amazon.cn/dp/B01M3VNAYQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1524022339&sr=1-1&keywords=%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1)
