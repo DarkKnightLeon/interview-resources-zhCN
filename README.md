@@ -95,7 +95,7 @@
 [深入JDK源码之ThreadLocal类](https://my.oschina.net/xianggao/blog/392440?fromerr=CLZtT4xC)
 
 # JVM
-[★★★深入理解JAVA虚拟机：JVM高级特性与最佳实践-第三章 垃圾收集器与内存分配策略](https://www.processon.com/view/link/5add906ce4b02dfcf9bec8ef)
+[★★★《深入理解JAVA虚拟机：JVM高级特性与最佳实践》第三章 垃圾收集器与内存分配策略](https://www.processon.com/view/link/5add906ce4b02dfcf9bec8ef)
 
 [★【速记】JVM 优化经验总结](https://www.processon.com/view/link/5ab20990e4b018c271bb3d4e)
 
