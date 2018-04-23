@@ -6,7 +6,7 @@
 
 2. 以【速记】开头为本人整理的思维导图，方便记忆
 
-3. 最近在啃书，重新整理下垃圾收集这块，更新会比较慢
+3. 最近在啃书，博客啃的少，更新会比较慢
 
 # JAVA综合
 [★浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
@@ -95,7 +95,7 @@
 [深入JDK源码之ThreadLocal类](https://my.oschina.net/xianggao/blog/392440?fromerr=CLZtT4xC)
 
 # JVM
-[★【速记】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)
+[★★★深入理解JAVA虚拟机：JVM高级特性与最佳实践-第三章 垃圾收集器与内存分配策略](https://www.processon.com/view/link/5add906ce4b02dfcf9bec8ef)
 
 [★【速记】JVM 优化经验总结](https://www.processon.com/view/link/5ab20990e4b018c271bb3d4e)
 
@@ -104,6 +104,8 @@
 [★深入理解Java类型信息(Class对象)与反射机制](http://blog.csdn.net/javazejian/article/details/70768369)
 
 [★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
+
+[【速记】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)
 
 [1.JVM 垃圾回收器工作原理及使用实例介绍](https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/)
 
@@ -124,6 +126,8 @@
 [Java内存溢出(OOM)异常完全指南](https://www.jianshu.com/p/2fdee831ed03)
 
 [详解JVM内存管理与垃圾回收机制 (上)](https://www.jianshu.com/p/f8d71e1e8821)
+
+[Java8内存模型—永久代(PermGen)和元空间(Metaspace)](http://www.cnblogs.com/paddix/p/5309550.html)
 
 # Spring
 [★spring和springMVC的面试问题总结](https://blog.csdn.net/qq_39470733/article/details/77709607)
