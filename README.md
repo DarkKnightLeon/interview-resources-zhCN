@@ -105,7 +105,7 @@
 
 [★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
 
-[【速记】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)
+~~[【速记】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)~~
 
 [1.JVM 垃圾回收器工作原理及使用实例介绍](https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/)
 
@@ -246,6 +246,8 @@
 [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
 
 [京东安全架构师刘刚：电商大促的安全保障是一个复杂的超级工程](http://netsecurity.51cto.com/art/201712/561095.htm)
+
+[用文本挖掘剖析近5万首《全唐诗》，发现了这些有趣的秘密](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80001132)
 
 # 正版电子书推荐
 [深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）](https://www.amazon.cn/gp/product/B00DA0E170?ref_=kin_pc_dp)
