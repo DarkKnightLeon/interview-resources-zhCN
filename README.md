@@ -41,6 +41,8 @@
 
 [在Java8的foreach()中使用return/break/continue](https://blog.csdn.net/lmy86263/article/details/51057733)
 
+[Java常见的30个误区与细节！](http://developer.51cto.com/art/201804/571215.htm)
+
 # 并发
 [★【速记】JAVA并发总结](https://www.processon.com/view/link/5abc8c8de4b02cee4cf7f3ea)
 
@@ -96,6 +98,8 @@
 
 # JVM
 [★★★《深入理解JAVA虚拟机：JVM高级特性与最佳实践》第三章 垃圾收集器与内存分配策略](https://www.processon.com/view/link/5add906ce4b02dfcf9bec8ef)
+
+[★JVM参数官方文档（英文）](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
 
 [★【速记】JVM 优化经验总结](https://www.processon.com/view/link/5ab20990e4b018c271bb3d4e)
 
@@ -205,6 +209,10 @@
 [微服务技术架构](https://www.processon.com/view/58e43c7ee4b0a49a5fd02823)
 
 [云平台系统架构图](https://www.processon.com/view/5a77f599e4b059c41ab54de4)
+
+[海尔部署架构](https://www.processon.com/view/57230cb7e4b0d554ee489a6b)
+
+[办公APP架构图](https://www.processon.com/view/5976c2e1e4b0eb26cb76c0e9)
 
 # 算法
 [红黑树](http://my.oschina.net/hosee/blog/618828)
