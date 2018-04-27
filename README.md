@@ -4,20 +4,20 @@
 
 1. 以★开头表示推荐优先阅读
 
-2. 以【速记】开头为本人整理的思维导图，方便记忆
+2. 以【原】开头为本人原创，大部分是整理的思维导图，方便记忆
 
 3. 最近在啃书，博客啃的少，更新会比较慢
 
 # JAVA综合
-[★浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
+[★ 浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
 
-[★JDK7与JDK8中HashMap的实现](https://my.oschina.net/hosee/blog/618953)
+[★ JDK7与JDK8中HashMap的实现](https://my.oschina.net/hosee/blog/618953)
 
-[★Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
+[★ Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
 
-[★JDK各个版本的新特性jdk1.5-jdk8](http://www.cnblogs.com/langtianya/p/3757993.html)
+[★ JDK各个版本的新特性jdk1.5-jdk8](http://www.cnblogs.com/langtianya/p/3757993.html)
 
-[★Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
+[★ Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/0-Introduction.md)
 
 [NavigableMap与NavigableSet](https://blog.csdn.net/g_beginner/article/details/6207550)
 
@@ -41,22 +41,22 @@
 
 [在Java8的foreach()中使用return/break/continue](https://blog.csdn.net/lmy86263/article/details/51057733)
 
-[Java常见的30个误区与细节！](http://developer.51cto.com/art/201804/571215.htm)
+[JAVA中正则表达式匹配，替换，查找，切割的方法](http://www.jb51.net/article/72081.htm)
 
 # 并发
-[★【速记】JAVA并发总结](https://www.processon.com/view/link/5abc8c8de4b02cee4cf7f3ea)
+[★ 【原】JAVA并发总结](https://www.processon.com/view/link/5abc8c8de4b02cee4cf7f3ea)
 
-[★Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
+[★ Java多线程知识小抄集(一)](http://blog.csdn.net/u013256816/article/details/51325246#t6)
 
-[★Java多线程知识小抄集(二)](http://blog.csdn.net/u013256816/article/details/51325309)
+[★ Java多线程知识小抄集(二)](http://blog.csdn.net/u013256816/article/details/51325309)
 
-[★Java多线程知识小抄集(三)](http://blog.csdn.net/u013256816/article/details/51363643)
+[★ Java多线程知识小抄集(三)](http://blog.csdn.net/u013256816/article/details/51363643)
 
-[★Java多线程知识小抄集(四)——完结](http://blog.csdn.net/u013256816/article/details/51524861)
+[★ Java多线程知识小抄集(四)——完结](http://blog.csdn.net/u013256816/article/details/51524861)
 
-[★40个Java多线程问题总结](http://www.cnblogs.com/xrq730/p/5060921.html)
+[★ 40个Java多线程问题总结](http://www.cnblogs.com/xrq730/p/5060921.html)
 
-[★JVM中线程的状态转换图](http://blog.csdn.net/hxpjava1/article/details/55255181)
+[★ JVM中线程的状态转换图](http://blog.csdn.net/hxpjava1/article/details/55255181)
 
 [1.深入理解Java并发之synchronized实现原理](http://blog.csdn.net/javazejian/article/details/72828483)
 
@@ -97,19 +97,21 @@
 [深入JDK源码之ThreadLocal类](https://my.oschina.net/xianggao/blog/392440?fromerr=CLZtT4xC)
 
 # JVM
-[★★★《深入理解JAVA虚拟机：JVM高级特性与最佳实践》第三章 垃圾收集器与内存分配策略](https://www.processon.com/view/link/5add906ce4b02dfcf9bec8ef)
+[★ JVM参数官方文档（英文）](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
 
-[★JVM参数官方文档（英文）](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
+[★【原】《深入理解JAVA虚拟机：JVM高级特性与最佳实践》第三章 垃圾收集器与内存分配策略](https://www.processon.com/view/link/5add906ce4b02dfcf9bec8ef)
 
-[★【速记】JVM 优化经验总结](https://www.processon.com/view/link/5ab20990e4b018c271bb3d4e)
+[★【原】JVM 优化经验总结](https://www.processon.com/view/link/5ab20990e4b018c271bb3d4e)
 
-[★【速记】深入理解Java类加载器(ClassLoader)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
+[★【原】深入理解Java类加载器(ClassLoader)](https://www.processon.com/view/link/5ab0d819e4b0d799de87065e)
 
-[★深入理解Java类型信息(Class对象)与反射机制](http://blog.csdn.net/javazejian/article/details/70768369)
+[★ 深入理解Java类型信息(Class对象)与反射机制](http://blog.csdn.net/javazejian/article/details/70768369)
 
-[★全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
+[★ 全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
 
-~~[【速记】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)~~
+[【原】JAVA HotSpot GC收集器实践记录](https://www.jianshu.com/p/3aecfc9fe67b)
+
+~~[【原】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)~~
 
 [1.JVM 垃圾回收器工作原理及使用实例介绍](https://www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/)
 
@@ -134,9 +136,9 @@
 [Java8内存模型—永久代(PermGen)和元空间(Metaspace)](http://www.cnblogs.com/paddix/p/5309550.html)
 
 # Spring
-[★spring和springMVC的面试问题总结](https://blog.csdn.net/qq_39470733/article/details/77709607)
+[★ spring和springMVC的面试问题总结](https://blog.csdn.net/qq_39470733/article/details/77709607)
 
-[★【速记】SpringMVC 请求流程和异常解析](https://www.processon.com/view/link/5ad46a43e4b04721d61d908f)
+[★【原】SpringMVC 请求流程和异常解析](https://www.processon.com/view/link/5ad46a43e4b04721d61d908f)
 
 [给你一份Spring Boot知识清单](https://www.jianshu.com/p/83693d3d0a65)
 
@@ -159,16 +161,16 @@
 [security4.1.3认证的过程以及原请求信息的缓存及恢复（RequestCache）](https://blog.csdn.net/honghailiang888/article/details/53671108)
 
 # NIO
-[★攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
+[★ 攻破JAVA NIO技术壁垒](http://blog.csdn.net/u013256816/article/details/51457215)
 
-[【速记】JAVA NIO](https://www.processon.com/view/link/5ac34effe4b0cfe2747f1fba)
+[【原】JAVA NIO](https://www.processon.com/view/link/5ac34effe4b0cfe2747f1fba)
 
 # DB及ORM
-[★浅谈MySql的存储引擎（表类型）](http://www.cnblogs.com/lina1006/archive/2011/04/29/2032894.html)
+[★ 浅谈MySql的存储引擎（表类型）](http://www.cnblogs.com/lina1006/archive/2011/04/29/2032894.html)
 
-[★mysql行转列转换（可以省掉不少子查询写法，相同条件比子查询效率提高40%左右）](https://blog.csdn.net/sinat_27406925/article/details/77507478)
+[★ mysql行转列转换（可以省掉不少子查询写法，相同条件比子查询效率提高40%左右）](https://blog.csdn.net/sinat_27406925/article/details/77507478)
 
-[★Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
+[★ Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
 
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
 
@@ -184,22 +186,22 @@
 [Redis和Memcached的区别](http://blog.csdn.net/u013256816/article/details/51146314)
 
 # 设计模式
-[★快速理解Java中的五种单例模式](http://www.cnblogs.com/hupp/p/4487521.html)
+[★ 快速理解Java中的五种单例模式](http://www.cnblogs.com/hupp/p/4487521.html)
 
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
 
 # 分布式
-[★聊聊Dubbox（一）：为何选择（注：不止是聊了dubbox，值得一看）](https://www.jianshu.com/p/0b6e2c920014)
+[★ 聊聊Dubbox（一）：为何选择（注：不止是聊了dubbox，值得一看）](https://www.jianshu.com/p/0b6e2c920014)
 
 [微服务（Microservice）那点事](https://yq.aliyun.com/articles/2764)
 
-[【速记】微服务（Microservice）那点事](https://www.processon.com/view/link/5ac1f6b4e4b00dc8a027140d)
+[【原】微服务（Microservice）那点事](https://www.processon.com/view/link/5ac1f6b4e4b00dc8a027140d)
 
-[【速记】Hessian简单理解](https://www.processon.com/view/link/5ac1ca3fe4b0cf24e96359ea)
+[【原】Hessian简单理解](https://www.processon.com/view/link/5ac1ca3fe4b0cf24e96359ea)
 
-[【速记】Thrift入门](https://www.processon.com/view/link/5ac1ca68e4b0cfe2747a9459)
+[【原】Thrift入门](https://www.processon.com/view/link/5ac1ca68e4b0cfe2747a9459)
 
-[【速记】Zookeeper入门](https://www.processon.com/view/link/5ac1caa0e4b00dc8a0260b99)
+[【原】Zookeeper入门](https://www.processon.com/view/link/5ac1caa0e4b00dc8a0260b99)
 
 # 架构
 [基于区块链的信贷云平台技术架构图](https://www.processon.com/view/5a9f867fe4b0f7be027ae13c)
@@ -220,13 +222,13 @@
 [TimSort原理](https://baike.baidu.com/item/TimSort/10279720?fr=aladdin)
 
 # 网络
-[★系统吞吐量（TPS）、用户并发量、性能测试概念和公式](http://www.ha97.com/5095.html)
+[★ 系统吞吐量（TPS）、用户并发量、性能测试概念和公式](http://www.ha97.com/5095.html)
 
-[★get和post区别](https://www.zhihu.com/question/28586791)
+[★ get和post区别](https://www.zhihu.com/question/28586791)
 
-[★Cookies 和 Session的区别](http://blog.csdn.net/axin66ok/article/details/6175522)
+[★ Cookies 和 Session的区别](http://blog.csdn.net/axin66ok/article/details/6175522)
 
-[★Session机制详解](http://justsee.iteye.com/blog/1570652)
+[★ Session机制详解](http://justsee.iteye.com/blog/1570652)
 
 [如何设计好的RESTful API之安全性](http://blog.csdn.net/ywk253100/article/details/25654101)
 
@@ -239,12 +241,12 @@
 [服务器被 DDos 攻击有效的处理方法](http://server.51cto.com/sOS-568335.htm)
 
 # Linux
-[★linux命令（java开发常用）](http://blog.csdn.net/qq_15821497/article/details/73945074)
+[★ linux命令（java开发常用）](http://blog.csdn.net/qq_15821497/article/details/73945074)
 
 [java 开发常用的Linux命令](https://www.cnblogs.com/Mrjie/p/5810669.html)
 
 # JAVA 9
-[★Java9模块系统](https://www.yiibai.com/java/java9/module_system.html)
+[★ Java9模块系统](https://www.yiibai.com/java/java9/module_system.html)
 
 [Java 9 揭秘（2. 模块化系统）](https://www.cnblogs.com/IcanFixIt/p/6947763.html)
 
