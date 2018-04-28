@@ -9,6 +9,8 @@
 3. 最近在啃书，博客啃的少，更新会比较慢
 
 # JAVA综合
+[★【原】从《阿里巴巴Java开发手册》看Java中的坑](https://www.jianshu.com/p/2230d2e96b89)
+
 [★ 浅析若干Java序列化工具](http://blog.csdn.net/u013256816/article/details/50721421)
 
 [★ JDK7与JDK8中HashMap的实现](https://my.oschina.net/hosee/blog/618953)
@@ -42,8 +44,6 @@
 [在Java8的foreach()中使用return/break/continue](https://blog.csdn.net/lmy86263/article/details/51057733)
 
 [JAVA中正则表达式匹配，替换，查找，切割的方法](http://www.jb51.net/article/72081.htm)
-
-[【原】从《阿里巴巴Java开发手册》看Java中的坑](https://www.jianshu.com/p/2230d2e96b89)
 
 # 并发
 [★ 【原】JAVA并发总结](https://www.processon.com/view/link/5abc8c8de4b02cee4cf7f3ea)
