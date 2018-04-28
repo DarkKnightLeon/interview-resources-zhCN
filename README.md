@@ -109,6 +109,8 @@
 
 [★ 全面理解Java内存模型(JMM)及volatile关键字](http://blog.csdn.net/javazejian/article/details/72772461)
 
+[【原】JAVA中final、static、volatile在字节码文件中的表现](https://www.jianshu.com/p/d83a1f4e0496)
+
 [【原】JAVA HotSpot GC收集器实践记录](https://www.jianshu.com/p/3aecfc9fe67b)
 
 ~~[【原】JVM 垃圾回收器工作原理及使用实例介绍](https://www.processon.com/view/link/5ab358ace4b007d25112a075)~~
