@@ -249,12 +249,18 @@
 
 [java 开发常用的Linux命令](https://www.cnblogs.com/Mrjie/p/5810669.html)
 
-# JAVA 9
-[★ Java9模块系统](https://www.yiibai.com/java/java9/module_system.html)
+# JAVA 新版本
+#### 震惊，JAVA9已经不推荐使用
+#### 更震惊，预计9月份就要出JAVA11了
+[Java 10的10个新特性，将彻底改变你写代码的方式！](https://blog.csdn.net/bf02jgtrs00xktcx/article/details/79579857)
+
+[Java9模块系统](https://www.yiibai.com/java/java9/module_system.html)
 
 [Java 9 揭秘（2. 模块化系统）](https://www.cnblogs.com/IcanFixIt/p/6947763.html)
 
 [(译)JAR 地狱 (JAR Hell)](https://toutiao.io/posts/452124/app_preview)
+
+
 
 # 杂谈
 [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
