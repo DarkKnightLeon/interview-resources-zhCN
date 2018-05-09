@@ -45,6 +45,10 @@
 
 [JAVA中正则表达式匹配，替换，查找，切割的方法](http://www.jb51.net/article/72081.htm)
 
+[Java 8 时间日期库的20个使用示例](http://www.codeceo.com/article/java-8-20-datetime.html)
+
+[Java8中 Date和LocalDate的相互转换](https://blog.csdn.net/hspingcc/article/details/73332252)
+
 # 并发
 [★ 【原】JAVA并发总结](https://www.processon.com/view/link/5abc8c8de4b02cee4cf7f3ea)
 
