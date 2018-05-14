@@ -212,6 +212,8 @@
 [【原】Zookeeper入门](https://www.processon.com/view/link/5ac1caa0e4b00dc8a0260b99)
 
 # 架构
+[千万级规模高性能、高并发的网络架构经验分享](http://server.51cto.com/Review-573270.htm)
+
 [基于区块链的信贷云平台技术架构图](https://www.processon.com/view/5a9f867fe4b0f7be027ae13c)
 
 [某项目架构图](https://www.processon.com/view/5a545907e4b0abe85d46f363)
@@ -268,6 +270,8 @@
 [(译)JAR 地狱 (JAR Hell)](https://toutiao.io/posts/452124/app_preview)
 
 # 杂谈
+[一位15年资深HR直言：清退35岁以上基层员工，早已是公开秘密](http://news.51cto.com/art/201805/573253.htm)
+
 [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/295358645)
 
 [京东安全架构师刘刚：电商大促的安全保障是一个复杂的超级工程](http://netsecurity.51cto.com/art/201712/561095.htm)
