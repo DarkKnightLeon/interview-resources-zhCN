@@ -199,9 +199,17 @@
 [设计模式：开篇](http://blog.csdn.net/u013256816/article/details/50966823#t0)
 
 # 分布式
-[★ 聊聊Dubbox（一）：为何选择（注：不止是聊了dubbox，值得一看）](https://www.jianshu.com/p/0b6e2c920014)
+[★ 聊聊Dubbox（一）：为何选择](https://www.jianshu.com/p/0b6e2c920014)
 
 [★ 我们为什么要使用Spring Cloud？](https://blog.csdn.net/SmallSunL/article/details/78778790)
+
+[dubbo-spring-boot-starter中文文档](https://github.com/alibaba/dubbo-spring-boot-starter/blob/master/README_zh.md)
+
+[dubbo-dev-book中文(设计及理念)](http://dubbo.apache.org/books/dubbo-dev-book/)
+
+[dubbo-user-book中文(平常使用)](http://dubbo.apache.org/books/dubbo-user-book/)
+
+[dubbo-admin-book中文(运维)](http://dubbo.apache.org/books/dubbo-admin-book/)
 
 [【原】浅析Java中的事务，从ACID到BASE](https://www.jianshu.com/p/93c61beb71a4)
 
