@@ -180,6 +180,8 @@
 
 [★ Mybatis高级应用](http://blog.csdn.net/zouqingfang/article/details/44782999)
 
+[Mysql 常用函数总结（加密解密函数）](https://blog.csdn.net/qq_17612199/article/details/52757289)
+
 [MySQL 及 SQL 注入与防范方法](http://www.jb51.net/article/87948.htm)
 
 [我必须得告诉大家的MySQL优化原理](https://www.jianshu.com/p/d7665192aaaf)
