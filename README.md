@@ -295,6 +295,8 @@
 
 [用文本挖掘剖析近5万首《全唐诗》，发现了这些有趣的秘密](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80001132)
 
+[java程序员应该具备的技能](https://yq.aliyun.com/articles/601028?spm=a2c4e.11157919.spm-cont-list.24.648c27ae6LyKHH)
+
 # 正版电子书推荐
 [深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）](https://www.amazon.cn/gp/product/B00DA0E170?ref_=kin_pc_dp)
 
