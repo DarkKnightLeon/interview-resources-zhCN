@@ -64,6 +64,8 @@
 
 [★ JVM中线程的状态转换图](http://blog.csdn.net/hxpjava1/article/details/55255181)
 
+[★ JAVA并发编程: CAS和AQS](https://blog.csdn.net/u010862794/article/details/72892300)
+
 [★ Java并发之AQS详解](https://www.cnblogs.com/daydaynobug/p/6752837.html)
 
 [1.深入理解Java并发之synchronized实现原理](http://blog.csdn.net/javazejian/article/details/72828483)
