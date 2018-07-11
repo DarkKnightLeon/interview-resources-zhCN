@@ -211,6 +211,8 @@
 
 [【原】浅析Java中的事务，从ACID到BASE](https://www.jianshu.com/p/93c61beb71a4)
 
+[Canal-阿里的mysql异地同步中间件](https://github.com/alibaba/canal)
+
 [DRDS 柔性事务漫谈](https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658357696&idx=1&sn=e747f49e3fc29d138227f7c55a95887e&chksm=f2d59aaec5a213b8fa7e35a7a06a76e6dc6b238da0175ea72fb4fd6ae437e7b1bdddc2b0f6d4&mpshare=1&scene=1&srcid=0607KSqHYYcuJAs3rBo4wcBW#rd)
 
 [我们为什么要使用Spring Cloud？](https://blog.csdn.net/SmallSunL/article/details/78778790)
